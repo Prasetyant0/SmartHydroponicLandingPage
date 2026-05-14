@@ -5,7 +5,7 @@ import { navigationLinks } from "../../shared/content/navigation";
 
 const Navbar = ({
   links = navigationLinks,
-  brand = { primary: "HydroSmart", accent: "IoT" },
+  brand = { primary: "Verdiqo", accent: "IoT" },
   cta = { secondary: "Masuk", primary: "Coba Gratis" },
   onPrimaryClick,
   onSecondaryClick,

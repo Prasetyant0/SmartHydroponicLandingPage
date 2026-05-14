@@ -86,7 +86,7 @@ const ProductPage = () => {
                 PRODUK
               </div>
               <h1 className="mt-4 text-4xl font-medium tracking-tight text-dark sm:text-5xl">
-                Lini Produk HydroSmart
+                Lini Produk Verdiqo
               </h1>
               <p className="mt-5 text-base leading-relaxed text-graphite sm:text-lg">
                 Pilih sistem yang sesuai dengan kebutuhan dan skala operasi Anda. Dari taman

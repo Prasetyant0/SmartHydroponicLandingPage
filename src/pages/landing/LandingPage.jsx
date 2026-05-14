@@ -36,13 +36,13 @@ const LandingPage = () => {
 
   const modalContent = {
     trial: {
-      title: "Coba HydroSmart Gratis",
+      title: "Coba Verdiqo Gratis",
       description: "Dapatkan akses penuh selama 14 hari. Tanpa perlu kartu kredit.",
       primaryActionText: "Mulai Coba",
     },
     demo: {
       title: "Jadwalkan Demo",
-      description: "Biarkan tim kami menunjukkan cara HydroSmart mengubah farm Anda.",
+      description: "Biarkan tim kami menunjukkan cara Verdiqo mengubah farm Anda.",
       primaryActionText: "Jadwalkan",
     },
   };

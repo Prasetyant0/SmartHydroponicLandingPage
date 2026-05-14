@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import { navigationLinks } from "../../shared/content/navigation";
 
 const Footer = ({
-  brand = { primary: "HydroSmart", accent: "IoT" },
+  brand = { primary: "Verdiqo", accent: "IoT" },
   links = navigationLinks,
   socialLinks = [
     {
@@ -85,7 +85,7 @@ const Footer = ({
           {/* Legal + Copyright */}
           <div className="flex flex-col items-start justify-between gap-6 md:flex-row md:items-center">
             <p className="text-xs text-gray-500">
-              &copy; {currentYear} HydroSmart IoT. Hak cipta dilindungi.
+              &copy; {currentYear} Verdiqo IoT. Hak cipta dilindungi.
             </p>
 
             <div className="flex items-center gap-6">

@@ -1,4 +1,4 @@
-# HydroSmart IoT — Smart Hydroponic Landing Page
+# Verdiqo IoT — Smart Hydroponic Landing Page
 
 ![Status](https://img.shields.io/badge/Status-Active%20Development-22C55E)
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=0B0B0B)
@@ -7,7 +7,7 @@
 ![React Router](https://img.shields.io/badge/React_Router-7-CA4245?logo=reactrouter&logoColor=white)
 ![Last Commit](https://img.shields.io/github/last-commit/Prasetyant0/SmartHydroponicLandingPage?label=Last%20commit)
 
-![Preview Hero HydroSmart IoT](/public/preview.webp)
+![Preview Hero Verdiqo IoT](/public/preview.webp)
 
 Landing page modern untuk platform **IoT hidroponik** yang mengusung design system **minimalis premium** (terinspirasi gaya Tesla): bersih, responsif, penuh whitespace, dan fokus pada hierarki tipografi.
 
@@ -15,7 +15,7 @@ Landing page modern untuk platform **IoT hidroponik** yang mengusung design syst
 
 ## Deskripsi Project
 
-**HydroSmart IoT** adalah halaman landing untuk memperkenalkan produk Smart Hydroponic: monitoring sensor, otomasi irigasi/nutrisi, dan dashboard pemantauan real-time. Project ini dibangun sebagai **showcase portfolio** sekaligus fondasi awal untuk pengembangan produk ke tahap berikutnya.
+**Verdiqo IoT** adalah halaman landing untuk memperkenalkan produk Smart Hydroponic: monitoring sensor, otomasi irigasi/nutrisi, dan dashboard pemantauan real-time. Project ini dibangun sebagai **showcase portfolio** sekaligus fondasi awal untuk pengembangan produk ke tahap berikutnya.
 
 > Catatan: Project ini **akan terus dikembangkan** (fitur, konten, dan halaman tambahan) agar semakin mendekati kebutuhan produk dunia nyata.
 
