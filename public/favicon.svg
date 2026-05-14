@@ -1,0 +1,30 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- Leaf shape representing plant/hydroponic system -->
+  <defs>
+    <linearGradient id="leafGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#22C55E;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#16A34A;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="waterGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#06B6D4;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0891B2;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Water droplet at bottom -->
+  <ellipse cx="32" cy="48" rx="12" ry="14" fill="url(#waterGradient)" opacity="0.8"/>
+  
+  <!-- Leaf -->
+  <path d="M 32 8 Q 22 24 22 40 Q 22 54 32 58 Q 42 54 42 40 Q 42 24 32 8 Z" 
+        fill="url(#leafGradient)"/>
+  
+  <!-- Leaf vein detail -->
+  <path d="M 32 10 Q 32 25 32 40" 
+        stroke="rgba(255,255,255,0.4)" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  
+  <!-- Tech elements - circular nodes on leaf -->
+  <circle cx="24" cy="28" r="2.5" fill="rgba(255,255,255,0.6)"/>
+  <circle cx="40" cy="28" r="2.5" fill="rgba(255,255,255,0.6)"/>
+  <circle cx="26" cy="42" r="2.5" fill="rgba(255,255,255,0.5)"/>
+  <circle cx="38" cy="42" r="2.5" fill="rgba(255,255,255,0.5)"/>
+</svg>
